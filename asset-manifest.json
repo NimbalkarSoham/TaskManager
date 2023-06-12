@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NimbalkarSoham/TaskManager/static/css/main.28b73b6d.css",
+    "main.js": "/NimbalkarSoham/TaskManager/static/js/main.f170fb55.js",
+    "index.html": "/NimbalkarSoham/TaskManager/index.html",
+    "main.28b73b6d.css.map": "/NimbalkarSoham/TaskManager/static/css/main.28b73b6d.css.map",
+    "main.f170fb55.js.map": "/NimbalkarSoham/TaskManager/static/js/main.f170fb55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28b73b6d.css",
+    "static/js/main.f170fb55.js"
+  ]
+}
